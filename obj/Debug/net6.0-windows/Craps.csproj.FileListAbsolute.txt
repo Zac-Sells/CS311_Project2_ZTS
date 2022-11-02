@@ -1,0 +1,17 @@
+C:\Users\sells\source\repos\Craps\bin\Debug\net6.0-windows\Craps.exe
+C:\Users\sells\source\repos\Craps\bin\Debug\net6.0-windows\Craps.deps.json
+C:\Users\sells\source\repos\Craps\bin\Debug\net6.0-windows\Craps.runtimeconfig.json
+C:\Users\sells\source\repos\Craps\bin\Debug\net6.0-windows\Craps.dll
+C:\Users\sells\source\repos\Craps\bin\Debug\net6.0-windows\Craps.pdb
+C:\Users\sells\source\repos\Craps\obj\Debug\net6.0-windows\Craps.csproj.AssemblyReference.cache
+C:\Users\sells\source\repos\Craps\obj\Debug\net6.0-windows\Craps.frmMain.resources
+C:\Users\sells\source\repos\Craps\obj\Debug\net6.0-windows\Craps.csproj.GenerateResource.cache
+C:\Users\sells\source\repos\Craps\obj\Debug\net6.0-windows\Craps.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sells\source\repos\Craps\obj\Debug\net6.0-windows\Craps.AssemblyInfoInputs.cache
+C:\Users\sells\source\repos\Craps\obj\Debug\net6.0-windows\Craps.AssemblyInfo.cs
+C:\Users\sells\source\repos\Craps\obj\Debug\net6.0-windows\Craps.csproj.CoreCompileInputs.cache
+C:\Users\sells\source\repos\Craps\obj\Debug\net6.0-windows\Craps.dll
+C:\Users\sells\source\repos\Craps\obj\Debug\net6.0-windows\refint\Craps.dll
+C:\Users\sells\source\repos\Craps\obj\Debug\net6.0-windows\Craps.pdb
+C:\Users\sells\source\repos\Craps\obj\Debug\net6.0-windows\Craps.genruntimeconfig.cache
+C:\Users\sells\source\repos\Craps\obj\Debug\net6.0-windows\ref\Craps.dll
